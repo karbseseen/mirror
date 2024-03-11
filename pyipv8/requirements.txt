@@ -1,0 +1,9 @@
+cryptography
+libnacl
+netifaces
+aiohttp
+aiohttp_apispec
+pyOpenSSL
+pyasn1
+asynctest; python_version=='3.7'
+marshmallow
